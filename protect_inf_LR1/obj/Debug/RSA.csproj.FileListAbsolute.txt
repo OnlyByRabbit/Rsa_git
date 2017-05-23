@@ -1,0 +1,3 @@
+C:\Users\Fando\Desktop\RSA\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Fando\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Fando\Desktop\RSA\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
